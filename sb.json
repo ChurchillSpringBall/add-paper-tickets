@@ -1,0 +1,842 @@
+[
+ {
+   "name": "Sam Baker",
+   "crsid": "sg768",
+   "ticket": "standard"
+ },
+ {
+   "name": "Nora Kertesz",
+   "crsid": "nk436",
+   "ticket": "standard"
+ },
+ {
+   "name": "Francisca Hamilton",
+   "crsid": "fcmh2",
+   "ticket": "standard"
+ },
+ {
+   "name": "Sara Anderson",
+   "crsid": "sa830",
+   "ticket": "standard"
+ },
+ {
+   "name": "Robert Smyth",
+   "crsid": "rs815",
+   "ticket": "standard"
+ },
+ {
+   "name": "Edvard Thorfinn George",
+   "crsid": "et379",
+   "ticket": "standard"
+ },
+ {
+   "name": "Natasha Michael",
+   "crsid": "nkm30",
+   "ticket": "standard"
+ },
+ {
+   "name": "Josh Evans",
+   "crsid": "jse37",
+   "ticket": "standard"
+ },
+ {
+   "name": "Samuel Johnson",
+   "crsid": "sglj2",
+   "ticket": "standard"
+ },
+ {
+   "name": "William Meikle",
+   "crsid": "wm281",
+   "ticket": "standard"
+ },
+ {
+   "name": "Lucy Gledhill-Flynn",
+   "crsid": "lg473",
+   "ticket": "standard"
+ },
+ {
+   "name": "Michael Twomey",
+   "crsid": "mt676",
+   "ticket": "standard"
+ },
+ {
+   "name": "Adam Rochussen",
+   "crsid": "amr80",
+   "ticket": "standard"
+ },
+ {
+   "name": "Katherine Weaver",
+   "crsid": "kw446",
+   "ticket": "standard"
+ },
+ {
+   "name": "Elizabeth Robinson",
+   "crsid": "ear42",
+   "ticket": "standard"
+ },
+ {
+   "name": "Anno Koetje ",
+   "crsid": "ak969",
+   "ticket": "standard"
+ },
+ {
+   "name": "Luke Gostelow",
+   "crsid": "lg493",
+   "ticket": "standard"
+ },
+ {
+   "name": "Michael Gough",
+   "crsid": "mjg234",
+   "ticket": "standard"
+ },
+ {
+   "name": "Arthur Kuenzi",
+   "crsid": "ak962",
+   "ticket": "standard"
+ },
+ {
+   "name": "Eve Caroe",
+   "crsid": "ak962",
+   "ticket": "standard"
+ },
+ {
+   "name": "Max Veit",
+   "crsid": "mv393",
+   "ticket": "QJ"
+ },
+ {
+   "name": "Simon Lichtinger",
+   "crsid": "sml68",
+   "ticket": "standard"
+ },
+ {
+   "name": "Conor Williams",
+   "crsid": "cw648",
+   "ticket": "standard"
+ },
+ {
+   "name": "Dylan Bogod",
+   "crsid": "djpb4",
+   "ticket": "standard"
+ },
+ {
+   "name": "Antony Archer",
+   "crsid": "aa837",
+   "ticket": "standard"
+ },
+ {
+   "name": "James Patchett",
+   "crsid": "jp677",
+   "ticket": "QJ"
+ },
+ {
+   "name": "Jonathan Mash",
+   "crsid": "jm2019",
+   "ticket": "standard"
+ },
+ {
+   "name": "Zohaib Arain",
+   "crsid": "zma25",
+   "ticket": "standard"
+ },
+ {
+   "name": "Katy Surman",
+   "crsid": "kls84",
+   "ticket": "QJ"
+ },
+ {
+   "name": "Konrad Edwards ",
+   "crsid": "ke286",
+   "ticket": "QJ"
+ },
+ {
+   "name": "Marla Gillow ",
+   "crsid": "mkg32",
+   "ticket": "standard"
+ },
+ {
+   "name": "Alex Heavers",
+   "crsid": "adh48",
+   "ticket": "standard"
+ },
+ {
+   "name": "Sam Mann",
+   "crsid": "sm2150",
+   "ticket": "standard"
+ },
+ {
+   "name": "Youssef Badr",
+   "crsid": "yaab2",
+   "ticket": "standard"
+ },
+ {
+   "name": "Toby Crooks",
+   "crsid": "tc477",
+   "ticket": "standard"
+ },
+ {
+   "name": "Leah Dean",
+   "crsid": "lcd42",
+   "ticket": "standard"
+ },
+ {
+   "name": "Beth Fitzsimmons",
+   "crsid": "baf34",
+   "ticket": "standard"
+ },
+ {
+   "name": "Shirali Patel",
+   "crsid": "sp833",
+   "ticket": "standard"
+ },
+ {
+   "name": "Andrew Howard",
+   "crsid": "ah907",
+   "ticket": "standard"
+ },
+ {
+   "name": "David Grounds",
+   "crsid": "dg499",
+   "ticket": "standard"
+ },
+ {
+   "name": "Samuel Bradford",
+   "crsid": "sjb308",
+   "ticket": "standard"
+ },
+ {
+   "name": "Cormac Creagh",
+   "crsid": "cmc99",
+   "ticket": "standard"
+ },
+ {
+   "name": "Mireille Evagora-Campbell",
+   "crsid": "me371",
+   "ticket": "standard"
+ },
+ {
+   "name": "Ewan Clementson",
+   "crsid": "ejc88",
+   "ticket": "standard"
+ },
+ {
+   "name": "Rahul Savaoia",
+   "crsid": "rs817",
+   "ticket": "standard"
+ },
+ {
+   "name": "Emily Foy",
+   "crsid": "ef357",
+   "ticket": "standard"
+ },
+ {
+   "name": "Orphée Morlaas",
+   "crsid": "om301",
+   "ticket": "standard"
+ },
+ {
+   "name": "Emma Sharples ",
+   "crsid": "ems80",
+   "ticket": "standard"
+ },
+ {
+   "name": "Sophie Brown",
+   "crsid": "sb2035",
+   "ticket": "QJ"
+ },
+ {
+   "name": "Thaïs Brown",
+   "crsid": "sb2035",
+   "ticket": "QJ"
+ },
+ {
+   "name": "Eddie Heyne",
+   "crsid": "eh551",
+   "ticket": "standard"
+ },
+ {
+   "name": "Mary Oades",
+   "crsid": "mo398",
+   "ticket": "QJ"
+ },
+ {
+   "name": "James Oades",
+   "crsid": "mo398",
+   "ticket": "QJ"
+ },
+ {
+   "name": "Ellie Chapman",
+   "crsid": "ebc27",
+   "ticket": "standard"
+ },
+ {
+   "name": "Karl Winsor",
+   "crsid": "kw449",
+   "ticket": "standard"
+ },
+ {
+   "name": "Mithi Alexa de los Reyes",
+   "crsid": "macd4",
+   "ticket": "standard"
+ },
+ {
+   "name": "Janosz Dewberry",
+   "crsid": "jwd43",
+   "ticket": "standard"
+ },
+ {
+   "name": "Lachlan Lancaster",
+   "crsid": "ll521",
+   "ticket": "standard"
+ },
+ {
+   "name": "Jorge Garcia Condado",
+   "crsid": "jg811",
+   "ticket": "QJ"
+ },
+ {
+   "name": "Jesus Erlantz Garcia Condado",
+   "crsid": "jg811",
+   "ticket": "QJ"
+ },
+ {
+   "name": "Rachel Leedham",
+   "crsid": "rel60",
+   "ticket": "standard"
+ },
+ {
+   "name": "Lawrence Malčić",
+   "crsid": "ljm94",
+   "ticket": "standard"
+ },
+ {
+   "name": "Michael Berry",
+   "crsid": "mlb58",
+   "ticket": "standard"
+ },
+ {
+   "name": "Max Turney",
+   "crsid": "mt701",
+   "ticket": "standard"
+ },
+ {
+   "name": "Dominik Kloepfer",
+   "crsid": "dak48",
+   "ticket": "standard"
+ },
+ {
+   "name": "Angharad Devereux",
+   "crsid": "ad752",
+   "ticket": "QJ"
+ },
+ {
+   "name": "Daniel Stanley ",
+   "crsid": "dejs2",
+   "ticket": "QJ"
+ },
+ {
+   "name": "Eleonor Wolverson",
+   "crsid": "ew454",
+   "ticket": "standard"
+ },
+ {
+   "name": "Ellen Fox-Davies",
+   "crsid": "ejf53",
+   "ticket": "QJ"
+ },
+ {
+   "name": "Jun Ru Zhan",
+   "crsid": "jrz21",
+   "ticket": "standard"
+ },
+ {
+   "name": "Pasan Fernando",
+   "crsid": "wwprf2",
+   "ticket": "standard"
+ },
+ {
+   "name": "Henry Calver",
+   "crsid": "hc479",
+   "ticket": "standard"
+ },
+ {
+   "name": "Blake Hauser",
+   "crsid": "bmh37",
+   "ticket": "standard"
+ },
+ {
+   "name": "Aditya Dhumuntarao",
+   "crsid": "ad837",
+   "ticket": "standard"
+ },
+ {
+   "name": "Ben Naccarato",
+   "crsid": "bn254",
+   "ticket": "standard"
+ },
+ {
+   "name": "Sam Oakley",
+   "crsid": "so354",
+   "ticket": "standard"
+ },
+ {
+   "name": "Emily Payne",
+   "crsid": "ep432",
+   "ticket": "standard"
+ },
+ {
+   "name": "Chris George",
+   "crsid": "ep432",
+   "ticket": "standard"
+ },
+ {
+   "name": "James D'Rozario",
+   "crsid": "jd647",
+   "ticket": "standard"
+ },
+ {
+   "name": "Felicity Kersting",
+   "crsid": "fmgk2",
+   "ticket": "standard"
+ },
+ {
+   "name": "Isabel Drewhurst",
+   "crsid": "id313",
+   "ticket": "standard"
+ },
+ {
+   "name": "James Miller",
+   "crsid": "jm2058",
+   "ticket": "standard"
+ },
+ {
+   "name": "William Crabtree",
+   "crsid": "wac32",
+   "ticket": "standard"
+ },
+ {
+   "name": "Harry Ward",
+   "crsid": "hw453",
+   "ticket": "standard"
+ },
+ {
+   "name": "Emilia Persson",
+   "crsid": "ep480",
+   "ticket": "standard"
+ },
+ {
+   "name": "Henry Lennon",
+   "crsid": "ep480",
+   "ticket": "standard"
+ },
+ {
+   "name": "Victoria Lee",
+   "crsid": "vl278",
+   "ticket": "standard"
+ },
+ {
+   "name": "Jonathan Holland",
+   "crsid": "jh2004",
+   "ticket": "standard"
+ },
+ {
+   "name": "Alice Bough",
+   "crsid": "arb207",
+   "ticket": "standard"
+ },
+ {
+   "name": "Mateusz Kwasigroch",
+   "crsid": "mjk76",
+   "ticket": "QJ"
+ },
+ {
+   "name": "William Wright",
+   "crsid": "wjaw2",
+   "ticket": "standard"
+ },
+ {
+   "name": "Roger Maxwell Strachan",
+   "crsid": "rms204",
+   "ticket": "standard"
+ },
+ {
+   "name": "Holly Welsby",
+   "crsid": "hw473",
+   "ticket": "standard"
+ },
+ {
+   "name": "Adam Smith",
+   "crsid": "as2658",
+   "ticket": "standard"
+ },
+ {
+   "name": "Reetobrata Chatterjee",
+   "crsid": "rc691",
+   "ticket": "standard"
+ },
+ {
+   "name": "Grace England",
+   "crsid": "goe21",
+   "ticket": "standard"
+ },
+ {
+   "name": "Charlotte Araya Moreland",
+   "crsid": "goe21",
+   "ticket": "standard"
+ },
+ {
+   "name": "Sarah Kyle",
+   "crsid": "sek51",
+   "ticket": "QJ"
+ },
+ {
+   "name": "Emma Lyons",
+   "crsid": "evl23",
+   "ticket": "QJ"
+ },
+ {
+   "name": "Sam Littlewood",
+   "crsid": "sgl31",
+   "ticket": "standard"
+ },
+ {
+   "name": "Hannah Prentice ",
+   "crsid": "sgl32",
+   "ticket": "standard"
+ },
+ {
+   "name": "Anna Ratcliff",
+   "crsid": "sgl33",
+   "ticket": "standard"
+ },
+ {
+   "name": "Niamh Walsh",
+   "crsid": "sgl34",
+   "ticket": "standard"
+ },
+ {
+   "name": "Miriam Blanescu",
+   "crsid": "mlb56",
+   "ticket": "standard"
+ },
+ {
+   "name": "Jessie Lewer-Davidson",
+   "crsid": "mlb56",
+   "ticket": "standard"
+ },
+ {
+   "name": "Jemima Robertson",
+   "crsid": "mt676",
+   "ticket": "standard"
+ },
+ {
+   "name": "Arthur Leichthammer",
+   "crsid": "achl6",
+   "ticket": "standard"
+ },
+ {
+   "name": "Joseph Malt",
+   "crsid": "jsm84",
+   "ticket": "standard"
+ },
+ {
+   "name": "Liam Gaziano",
+   "crsid": "lcg41",
+   "ticket": "standard"
+ },
+ {
+   "name": "Anthony Anele",
+   "crsid": "aa960",
+   "ticket": "standard"
+ },
+ {
+   "name": "Nathanel West",
+   "crsid": "rmw29",
+   "ticket": "standard"
+ },
+ {
+   "name": "Emma Willmont ",
+   "crsid": "ejw91",
+   "ticket": "QJ"
+ },
+ {
+   "name": "Leo Bridger",
+   "crsid": "ljb97",
+   "ticket": "standard"
+ },
+ {
+   "name": "Richard Bowen",
+   "crsid": "rdb44",
+   "ticket": "standard"
+ },
+ {
+   "name": "Sean Mc Cann",
+   "crsid": "sm2149",
+   "ticket": "standard"
+ },
+ {
+   "name": "Dan Thorne",
+   "crsid": "dpat2",
+   "ticket": "standard"
+ },
+ {
+   "name": "Tudor Paraschivescu",
+   "crsid": "tp423",
+   "ticket": "standard"
+ },
+ {
+   "name": "Bence Szepkuti",
+   "crsid": "bs562",
+   "ticket": "standard"
+ },
+ {
+   "name": "Rogier Prins",
+   "crsid": "rhp36",
+   "ticket": "standard"
+ },
+ {
+   "name": "Emmanuel Tasos",
+   "crsid": "et394",
+   "ticket": "standard"
+ },
+ {
+   "name": "Liam Martin",
+   "crsid": "ljm91",
+   "ticket": "standard"
+ },
+ {
+   "name": "Charlie Martin",
+   "crsid": "ljm92",
+   "ticket": "standard"
+ },
+ {
+   "name": "Annabel Winsor",
+   "crsid": "afw37",
+   "ticket": "standard"
+ },
+ {
+   "name": "Georgina McCoig",
+   "crsid": "afw38",
+   "ticket": "standard"
+ },
+ {
+   "name": "Beth Boucher",
+   "crsid": "afw39",
+   "ticket": "standard"
+ },
+ {
+   "name": "Jenni Shuttleworth",
+   "crsid": "jas278",
+   "ticket": "standard"
+ },
+ {
+   "name": "Elspeth Hennessey",
+   "crsid": "ak962",
+   "ticket": "standard"
+ },
+ {
+   "name": "Ana Hernández",
+   "crsid": "ak962",
+   "ticket": "standard"
+ },
+ {
+   "name": "Claudia Besutti",
+   "crsid": "ak962",
+   "ticket": "standard"
+ },
+ {
+   "name": "Jakob Leonhard Gomolka",
+   "crsid": "jlg73",
+   "ticket": "standard"
+ },
+ {
+   "name": "Jack Dai",
+   "crsid": "jhd38",
+   "ticket": "standard"
+ },
+ {
+   "name": "Ivan Nikolaev",
+   "crsid": "in247",
+   "ticket": "standard"
+ },
+ {
+   "name": "Andreas Stavrou",
+   "crsid": "as2558",
+   "ticket": "standard"
+ },
+ {
+   "name": "Noemi Ammaturo",
+   "crsid": "nla32",
+   "ticket": "standard"
+ },
+ {
+   "name": "Gary Shang",
+   "crsid": "gjs51",
+   "ticket": "standard"
+ },
+ {
+   "name": "Manas Kohli",
+   "crsid": "mk897",
+   "ticket": "QJ"
+ },
+ {
+   "name": "Elizabeth Elgar",
+   "crsid": "eje33",
+   "ticket": "standard"
+ },
+ {
+   "name": "Thomas Macintosh",
+   "crsid": "tm579",
+   "ticket": "standard"
+ },
+ {
+   "name": "Jihae Han",
+   "crsid": "jh2048",
+   "ticket": "standard"
+ },
+ {
+   "name": "Alex Burgess",
+   "crsid": "ab2142",
+   "ticket": "standard"
+ },
+ {
+   "name": "Luke Shirley",
+   "crsid": "ab2143",
+   "ticket": "standard"
+ },
+ {
+   "name": "Hannah Adams",
+   "crsid": "ab2144",
+   "ticket": "standard"
+ },
+ {
+   "name": "Tim Waghorn",
+   "crsid": "ab2145",
+   "ticket": "standard"
+ },
+ {
+   "name": "Shannon Bernard Healey",
+   "crsid": "sab232",
+   "ticket": "standard"
+ },
+ {
+   "name": "Stella Swain",
+   "crsid": "ss2403",
+   "ticket": "standard"
+ },
+ {
+   "name": "Holly Platt-Higgins",
+   "crsid": "hp392",
+   "ticket": "standard"
+ },
+ {
+   "name": "Alice Edney",
+   "crsid": "ae394",
+   "ticket": "standard"
+ },
+ {
+   "name": "Jack Oades",
+   "crsid": "mo398",
+   "ticket": "QJ"
+ },
+ {
+   "name": "Natinael Solomon Neggatu",
+   "crsid": "nsn23",
+   "ticket": "standard"
+ },
+ {
+   "name": "Ludovico Sappa-Cohen",
+   "crsid": "ls670",
+   "ticket": "standard"
+ },
+ {
+   "name": "David Swarbrick",
+   "crsid": "djgs2",
+   "ticket": "standard"
+ },
+ {
+   "name": "Julia McCarthy",
+   "crsid": "djgs3",
+   "ticket": "standard"
+ },
+ {
+   "name": "Dylan Danno",
+   "crsid": "dakd",
+   "ticket": "standard"
+ },
+ {
+   "name": "Ida Petajasoja",
+   "crsid": "in247",
+   "ticket": "standard"
+ },
+ {
+   "name": "Matthew Morrisson",
+   "crsid": "msm58",
+   "ticket": "standard"
+ },
+ {
+   "name": "Matthew Wigmore",
+   "crsid": "mw670",
+   "ticket": "standard"
+ },
+ {
+   "name": "Nailya Shamgunova",
+   "crsid": "ns531",
+   "ticket": "standard"
+ },
+ {
+   "name": "Dunn Goekjian",
+   "crsid": "ns532",
+   "ticket": "standard"
+ },
+ {
+   "name": "Georgios Batzolis",
+   "crsid": "gb511",
+   "ticket": "standard"
+ },
+ {
+   "name": "Howard Hung",
+   "crsid": "hh459",
+   "ticket": "standard"
+ },
+ {
+   "name": "Henry Cassidy",
+   "crsid": "htbc2",
+   "ticket": "standard"
+ },
+ {
+   "name": "Joni Baikie",
+   "crsid": "jmb261",
+   "ticket": "standard"
+ },
+ {
+   "name": "Wassim Bashir",
+   "crsid": "wb278",
+   "ticket": "QJ"
+ },
+ {
+   "name": "Michael Schoof",
+   "crsid": "ms2352",
+   "ticket": "standard"
+ },
+ {
+   "name": "Akshay Shah",
+   "crsid": "aas72",
+   "ticket": "standard"
+ },
+ {
+   "name": "Shivani Daiya",
+   "crsid": "aas72",
+   "ticket": "standard"
+ },
+ {
+   "name": "Owen Crawford",
+   "crsid": "oc283",
+   "ticket": "standard"
+ },
+ {
+   "name": "Comrie Saville-Ferguson",
+   "crsid": "cs885",
+   "ticket": "standard"
+ }
+]
