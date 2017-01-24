@@ -1,4 +1,4 @@
-** Add Paper Ticket Sales **
+# Add Paper Ticket Sales 
 
 Welcome to the dirtiest script ever written to put in the paper ticket sales.
 
